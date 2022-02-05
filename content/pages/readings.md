@@ -33,33 +33,365 @@ Twain, Mark. _Pudd'nhead Wilson and Other Tales_. Oxford and New York: Oxford Un
 
 \[Download [_Pudd'nhead Wilson_](http://www.gutenberg.org/etext/9035) by Mark Twain, a version of this text from Project Gutenberg.\]
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Frederick Douglass, _Narrative_ (1845) | Gates, Jr., Henry Louis, ed. _The Classic Slave Narratives_. New York: Mentor/Penguin, 1987. ISBN: 0451627261. |
-| 3 | Douglass | &nbsp; |
-| 4 | Harriet Beecher Stowe, _Uncle Tom's Cabin_ (1852) | Stowe, Harriet Beecher. _Uncle Tom's Cabin_. New York: Penguin Books, 1986. ISBN: 0140390030. |
-| 5 | Stowe | &nbsp; |
-| 6 | Stowe (cont.) | &nbsp; |
-| 7 | Wells Brown, _Clotel_ (1853)  {{< br >}}  {{< br >}}Research Workshop | Gates, Jr., Henry Louis, ed. _Three Classic African-American Novels_. New York: Vintage Books, 1990. ISBN: 0679727426. |
-| 8 | Brown | &nbsp; |
-| 9 | Melville, "Benito Cereno" (1853, 1856)  {{< br >}}  {{< br >}}Submit topic (choice of passage) for first essay. | Melville, Herman. "Benito Cereno." In _Melville's Short Novels: Authoritative Texts, Contexts, Criticism._ Selected and Edited by Dan McCall. New York: Norton, 2002. ISBN: 0393976416. |
-| 10 | Harriet Beecher Stowe, _Dred_ (1856) | Stowe, Harriet Beecher. _Dred._ New York: Penguin Books, 2000. ISBN: 0140439048. |
-| 11 | Stowe | &nbsp; |
-| 12 | Stowe (cont.) | &nbsp; |
-| 13 | Martin Delany, _Blake_ (1861) | Delany, Martin. _Blake: or, the Huts of America._ Boston: Beacon Press, 1970. ISBN: 080706419X. |
-| 14 | Delany | &nbsp; |
-| 15 | Harriet Jacobs, _Incidents in the Life of a Slave_ _Girl_ (1861)  {{< br >}}  {{< br >}}Submit topic (author and research question) for second essay. | Gates, Jr., Henry Louis, ed. _The Classic Slave Narratives_. New York: Mentor/Penguin, 1987. ISBN: 0451627261. |
-| 16 | Jacobs | &nbsp; |
-| 17 | Mark Twain, _The Adventures of Huckleberry_ _Finn_ (1885) | Twain, Mark. _The Adventures of Huckleberry Finn._ New York: Penguin Books, 1986. ISBN: 0140390464. |
-| 18 | Twain | &nbsp; |
-| 19 | Twain (cont.) | &nbsp; |
-| 20 | Frances Harper, _Iola Leroy_ (1892) | Gates, Jr., Henry Louis, ed. _Three Classic African-American Novels_. New York: Vintage Books, 1990. ISBN: 0679727426. |
-| 21 | Harper | &nbsp; |
-| 22 | Conference Day | &nbsp; |
-| 23 | Mark Twain, _Puddn'head Wilson_ (1894) | Twain, Mark. _Pudd'nhead Wilson and Other Tales._ Oxford and New York: Oxford University Press, 1992. ISBN: 0192818066. |
-| 24 | Twain  {{< br >}}  {{< br >}}Submit topic for final essay and be prepared to report on your progress. | &nbsp; |
-| 25 | Charles Chesnutt, _The Marrow of Tradition_ (1901) | Gates, Jr., Henry Louis, ed. _Three Classic African-American Novels_. New York: Vintage Books, 1990. ISBN: 0679727426. |
-| 26 | Conference Day | &nbsp; |
-| 27 | Chesnutt | &nbsp; |
-| 28 | Conclusion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Frederick Douglass, _Narrative_ (1845)
+{{< tdclose >}}
+{{< tdopen >}}
+Gates, Jr., Henry Louis, ed. _The Classic Slave Narratives_. New York: Mentor/Penguin, 1987. ISBN: 0451627261.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Douglass
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Beecher Stowe, _Uncle Tom's Cabin_ (1852)
+{{< tdclose >}}
+{{< tdopen >}}
+Stowe, Harriet Beecher. _Uncle Tom's Cabin_. New York: Penguin Books, 1986. ISBN: 0140390030.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Stowe
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Stowe (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Wells Brown, _Clotel_ (1853)  
+  
+Research Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Gates, Jr., Henry Louis, ed. _Three Classic African-American Novels_. New York: Vintage Books, 1990. ISBN: 0679727426.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Brown
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Melville, "Benito Cereno" (1853, 1856)  
+  
+Submit topic (choice of passage) for first essay.
+{{< tdclose >}}
+{{< tdopen >}}
+Melville, Herman. "Benito Cereno." In _Melville's Short Novels: Authoritative Texts, Contexts, Criticism._ Selected and Edited by Dan McCall. New York: Norton, 2002. ISBN: 0393976416.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Beecher Stowe, _Dred_ (1856)
+{{< tdclose >}}
+{{< tdopen >}}
+Stowe, Harriet Beecher. _Dred._ New York: Penguin Books, 2000. ISBN: 0140439048.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stowe
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Stowe (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Martin Delany, _Blake_ (1861)
+{{< tdclose >}}
+{{< tdopen >}}
+Delany, Martin. _Blake: or, the Huts of America._ Boston: Beacon Press, 1970. ISBN: 080706419X.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Delany
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Jacobs, _Incidents in the Life of a Slave_ _Girl_ (1861)  
+  
+Submit topic (author and research question) for second essay.
+{{< tdclose >}}
+{{< tdopen >}}
+Gates, Jr., Henry Louis, ed. _The Classic Slave Narratives_. New York: Mentor/Penguin, 1987. ISBN: 0451627261.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Jacobs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Mark Twain, _The Adventures of Huckleberry_ _Finn_ (1885)
+{{< tdclose >}}
+{{< tdopen >}}
+Twain, Mark. _The Adventures of Huckleberry Finn._ New York: Penguin Books, 1986. ISBN: 0140390464.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Twain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Twain (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Frances Harper, _Iola Leroy_ (1892)
+{{< tdclose >}}
+{{< tdopen >}}
+Gates, Jr., Henry Louis, ed. _Three Classic African-American Novels_. New York: Vintage Books, 1990. ISBN: 0679727426.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Harper
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Conference Day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Mark Twain, _Puddn'head Wilson_ (1894)
+{{< tdclose >}}
+{{< tdopen >}}
+Twain, Mark. _Pudd'nhead Wilson and Other Tales._ Oxford and New York: Oxford University Press, 1992. ISBN: 0192818066.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Twain  
+  
+Submit topic for final essay and be prepared to report on your progress.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Chesnutt, _The Marrow of Tradition_ (1901)
+{{< tdclose >}}
+{{< tdopen >}}
+Gates, Jr., Henry Louis, ed. _Three Classic African-American Novels_. New York: Vintage Books, 1990. ISBN: 0679727426.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conference Day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Chesnutt
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
